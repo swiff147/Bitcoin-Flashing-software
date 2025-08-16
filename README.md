@@ -18,6 +18,4 @@ You can generate and send up to 1000 BTC and 150k usdt daily with the basic lice
 
 -Flash BTC can be spent.
 
--Flash Usdt can be sent
-
-Message @phantommenace02 to buy the license or join https://t.me/+6t6_MpDkg4wxODNh
+-Flash Usdt can be sent.
